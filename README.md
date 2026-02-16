@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div style="display: flex; align-items: center; gap: 24px;">
+
+  <img src="[LINK_DO_SEU_GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJ4dTAyMnpzb2NzdGJyaHh1YmZlYTNoaDM1MDExazdsOXJ6MWhnOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oSjA9HcU0iIXm/giphy.gif)" width="220px" />
+
+  <div>
+
+  <h3>Hello, I'm Paulo César! </h3>
+
+  <p>
+  - Embedded Software Engineer on Automotive Systems <br>
+  - Interests in Machine Learning, Backend and IoT
+  - Living in Brazil 🇧🇷
+  </p>
+
+  </div>
+
+</div>
